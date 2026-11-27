@@ -1,0 +1,44 @@
+[
+ {
+  "id": "lh01_reverse_truck",
+  "max_gap": 3.5,
+  "start": 50,
+  "end": 111,
+  "hook": "How do you reverse a truck??"
+ },
+ {
+  "id": "lh02_keyless_car",
+  "max_gap": 3.5,
+  "start": 248,
+  "end": 278,
+  "hook": "What does that even MEAN?"
+ },
+ {
+  "id": "lh03_boo_boo_jail",
+  "max_gap": 3.5,
+  "start": 318,
+  "end": 364,
+  "hook": "Let's get our girl out of jail"
+ },
+ {
+  "id": "lh04_so_close_home",
+  "max_gap": 3.5,
+  "start": 472,
+  "end": 524,
+  "hook": "We're SO close to home..."
+ },
+ {
+  "id": "lh05_cocaine_floor",
+  "max_gap": 3.5,
+  "start": 552,
+  "end": 596.6,
+  "hook": "That is not a level of excitement"
+ },
+ {
+  "id": "lh06_crap_den",
+  "max_gap": 3.5,
+  "start": 745.55,
+  "end": 796,
+  "hook": "His room looks like a crap den"
+ }
+]

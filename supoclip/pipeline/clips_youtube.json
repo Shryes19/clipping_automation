@@ -1,0 +1,44 @@
+[
+ {
+  "id": "yt01_first_bank_robbery",
+  "start": 215.7,
+  "end": 251,
+  "hook": "Robbing our first bank in GTA 6"
+ },
+ {
+  "id": "yt02_stole_jumbo_jet",
+  "start": 57,
+  "end": 113,
+  "hook": "I stole a JUMBO JET in GTA 6"
+ },
+ {
+  "id": "yt03_cruise_ship",
+  "start": 119,
+  "end": 147.3,
+  "hook": "He wasn't done yet..."
+ },
+ {
+  "id": "yt04_double_bank",
+  "start": 263,
+  "end": 298,
+  "hook": "Robbing TWO banks back to back"
+ },
+ {
+  "id": "yt05_left_lucia",
+  "start": 301.35,
+  "end": 346,
+  "hook": "Sorry Lucia, have fun in jail"
+ },
+ {
+  "id": "yt06_cloud_physics",
+  "start": 356,
+  "end": 411.6,
+  "hook": "GTA 6 has CLOUD PHYSICS",
+  "exclude": [
+   [
+    398.0,
+    404.6
+   ]
+  ]
+ }
+]
