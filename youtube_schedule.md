@@ -2,7 +2,7 @@
 
 All times IST (Asia/Kolkata). Audience: not made for kids. Only `shorts/` folders go to YouTube; `reels/` are Instagram-only.
 
-Status as of 28 Nov 2026, 4 AM IST: shorts 1-10 are uploaded and scheduled. YouTube hit the channel's daily upload limit on short 11. Shorts 11-26 still need uploading (after phone verification or a 24h wait), so their dates may shift.
+Status as of 28 Nov 2026: all 26 shorts are uploaded. #1 is public; #2-26 are scheduled (each confirmed by YouTube Studio's "Video scheduled" dialog).
 
 | # | Date | Time (IST) | Status | Title | File |
 |---|---|---|---|---|---|
@@ -16,19 +16,19 @@ Status as of 28 Nov 2026, 4 AM IST: shorts 1-10 are uploaded and scheduled. YouT
 | 8 | 2026-11-30 | 17:00 | Scheduled | His First 20 Seconds In GTA 6 #Shorts | `openshorts/shorts/gta6_04_first_time_thats_a_cliff.mp4` |
 | 9 | 2026-11-30 | 21:00 | Scheduled | I stole a JUMBO JET in GTA 6 ✈️ #Shorts | `supoclip/shorts/yt02_stole_jumbo_jet.mp4` |
 | 10 | 2026-12-01 | 12:00 | Scheduled | After 13 years, GTA 6 is finally here 🤯 and the NPCs look REAL #Shorts | `autoclip/shorts/gta6_01_100_hours.mp4` |
-| 11 | 2026-12-01 | 17:00 | Not uploaded yet | GTA 6 Recreated Miami's Wynwood 1:1 #Shorts | `openshorts/shorts/gta6_01_wynwood_1to1_miami.mp4` |
-| 12 | 2026-12-01 | 21:00 | Not uploaded yet | Why are you single? 😳 #GTA6 #Shorts | `viralcutter/shorts/gta6_01_why_are_you_single.mp4` |
-| 13 | 2026-12-02 | 12:00 | Not uploaded yet | Robbing our first bank in GTA 6 💰 #Shorts | `supoclip/shorts/yt01_first_bank_robbery.mp4` |
-| 14 | 2026-12-02 | 17:00 | Not uploaded yet | "I can't believe we're playing GTA 6 before anyone got a girlfriend" 💀 #Shorts | `autoclip/shorts/gta6_02_girlfriend.mp4` |
-| 15 | 2026-12-02 | 21:00 | Not uploaded yet | GTA 6 Makes You Fly THIS Low To Drop The Package #Shorts | `openshorts/shorts/gta6_02_fly_this_low.mp4` |
-| 16 | 2026-12-03 | 12:00 | Not uploaded yet | Calling Lucia for backup 😳 #GTA6 #Shorts | `viralcutter/shorts/gta6_03_calling_lucia_for_backup.mp4` |
-| 17 | 2026-12-03 | 17:00 | Not uploaded yet | He crashed the plane... then found a cruise ship 🛳️ #Shorts | `supoclip/shorts/yt03_cruise_ship.mp4` |
-| 18 | 2026-12-03 | 21:00 | Not uploaded yet | One of the first GTA 6 selfies ever 📸 R3 for selfie! #Shorts | `autoclip/shorts/gta6_04_selfies.mp4` |
-| 19 | 2026-12-04 | 12:00 | Not uploaded yet | He Said He Majored In Aviation... Then Landed This #Shorts | `openshorts/shorts/gta6_03_aviation_major_landing.mp4` |
-| 20 | 2026-12-04 | 17:00 | Not uploaded yet | You told me too late 😳 #GTA6 #Shorts | `viralcutter/shorts/gta6_05_you_told_me_too_late.mp4` |
-| 21 | 2026-12-04 | 21:00 | Not uploaded yet | Robbing TWO banks back to back 🏦🏦 #Shorts | `supoclip/shorts/yt04_double_bank.mp4` |
-| 22 | 2026-12-05 | 12:00 | Not uploaded yet | "Oh my God Jimmy, she has a family!" 😭 GTA 6 robberies hit different #Shorts | `autoclip/shorts/gta6_05_she_has_a_family.mp4` |
-| 23 | 2026-12-05 | 17:00 | Not uploaded yet | They Walked Into A GTA 6 Biker Saloon To Rob It #Shorts | `openshorts/shorts/gta6_06_biker_saloon_went_quiet.mp4` |
-| 24 | 2026-12-05 | 21:00 | Not uploaded yet | Bike rack on a supercar? 😳 #GTA6 #Shorts | `viralcutter/shorts/gta6_06_bike_rack_on_a_supercar.mp4` |
-| 25 | 2026-12-06 | 12:00 | Not uploaded yet | Sorry Lucia, have fun in jail 😭 #Shorts | `supoclip/shorts/yt05_left_lucia.mp4` |
-| 26 | 2026-12-06 | 17:00 | Not uploaded yet | GTA 6 has CLOUD PHYSICS?! ☁️ #Shorts | `supoclip/shorts/yt06_cloud_physics.mp4` |
+| 11 | 2026-12-01 | 17:00 | Scheduled | GTA 6 Recreated Miami's Wynwood 1:1 #Shorts | `openshorts/shorts/gta6_01_wynwood_1to1_miami.mp4` |
+| 12 | 2026-12-01 | 21:00 | Scheduled | Why are you single? 😳 #GTA6 #Shorts | `viralcutter/shorts/gta6_01_why_are_you_single.mp4` |
+| 13 | 2026-12-02 | 12:00 | Scheduled | Robbing our first bank in GTA 6 💰 #Shorts | `supoclip/shorts/yt01_first_bank_robbery.mp4` |
+| 14 | 2026-12-02 | 17:00 | Scheduled | "I can't believe we're playing GTA 6 before anyone got a girlfriend" 💀 #Shorts | `autoclip/shorts/gta6_02_girlfriend.mp4` |
+| 15 | 2026-12-02 | 21:00 | Scheduled | GTA 6 Makes You Fly THIS Low To Drop The Package #Shorts | `openshorts/shorts/gta6_02_fly_this_low.mp4` |
+| 16 | 2026-12-03 | 12:00 | Scheduled | Calling Lucia for backup 😳 #GTA6 #Shorts | `viralcutter/shorts/gta6_03_calling_lucia_for_backup.mp4` |
+| 17 | 2026-12-03 | 17:00 | Scheduled | He crashed the plane... then found a cruise ship 🛳️ #Shorts | `supoclip/shorts/yt03_cruise_ship.mp4` |
+| 18 | 2026-12-03 | 21:00 | Scheduled | One of the first GTA 6 selfies ever 📸 R3 for selfie! #Shorts | `autoclip/shorts/gta6_04_selfies.mp4` |
+| 19 | 2026-12-04 | 12:00 | Scheduled | He Said He Majored In Aviation... Then Landed This #Shorts | `openshorts/shorts/gta6_03_aviation_major_landing.mp4` |
+| 20 | 2026-12-04 | 17:00 | Scheduled | You told me too late 😳 #GTA6 #Shorts | `viralcutter/shorts/gta6_05_you_told_me_too_late.mp4` |
+| 21 | 2026-12-04 | 21:00 | Scheduled | Robbing TWO banks back to back 🏦🏦 #Shorts | `supoclip/shorts/yt04_double_bank.mp4` |
+| 22 | 2026-12-05 | 12:00 | Scheduled | "Oh my God Jimmy, she has a family!" 😭 GTA 6 robberies hit different #Shorts | `autoclip/shorts/gta6_05_she_has_a_family.mp4` |
+| 23 | 2026-12-05 | 17:00 | Scheduled | They Walked Into A GTA 6 Biker Saloon To Rob It #Shorts | `openshorts/shorts/gta6_06_biker_saloon_went_quiet.mp4` |
+| 24 | 2026-12-05 | 21:00 | Scheduled | Bike rack on a supercar? 😳 #GTA6 #Shorts | `viralcutter/shorts/gta6_06_bike_rack_on_a_supercar.mp4` |
+| 25 | 2026-12-06 | 12:00 | Scheduled | Sorry Lucia, have fun in jail 😭 #Shorts | `supoclip/shorts/yt05_left_lucia.mp4` |
+| 26 | 2026-12-06 | 17:00 | Scheduled | GTA 6 has CLOUD PHYSICS?! ☁️ #Shorts | `supoclip/shorts/yt06_cloud_physics.mp4` |
